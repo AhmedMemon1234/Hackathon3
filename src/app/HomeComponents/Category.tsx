@@ -1,4 +1,4 @@
-// components/CategorySection.tsx
+"use client"
 import { FC, useState, useEffect } from "react";
 import { motion } from "framer-motion";
 import { FaTshirt, FaShoePrints, FaShoppingBag, FaGem, FaHatCowboy } from "react-icons/fa";

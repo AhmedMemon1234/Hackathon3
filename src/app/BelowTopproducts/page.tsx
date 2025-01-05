@@ -1,3 +1,4 @@
+"use client"
 import { motion } from "framer-motion";
 import { FaDollarSign, FaStar, FaUsers, FaShippingFast } from "react-icons/fa";
 
