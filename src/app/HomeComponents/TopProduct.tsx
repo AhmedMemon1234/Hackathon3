@@ -109,6 +109,7 @@ const Products = ({ product }: Props) => {
             width={250}
             height={250}
             className="w-[280px] object-cover rounded-md group-hover:scale-110 transition-transform duration-300 ease-in-out hover:cursor-pointer"
+            priority
           />
         </div>
 
